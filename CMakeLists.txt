@@ -20,13 +20,13 @@ if(${INCLUDE_OPENGL})
 endif()
 
 
-if(INCLUDE_DRAW2D_CAIRO)
-
-    add_subdirectory(graphics/pixman)
-    add_subdirectory(graphics/freetype)
-    add_subdirectory(graphics/cairo)
-
-endif()
+#if(INCLUDE_DRAW2D_CAIRO)
+#
+#    add_subdirectory(graphics/pixman)
+#    add_subdirectory(graphics/freetype)
+#    add_subdirectory(graphics/cairo)
+#
+#endif()
 
 add_subdirectory(base/iconv)
 add_subdirectory(base/unac)
