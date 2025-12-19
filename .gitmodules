@@ -2,7 +2,3 @@
 	path = base
 	url = ../linux-port-base
 	branch = main
-[submodule "graphics3d"]
-	path = graphics3d
-	url = ../linux-port-graphics3d
-	branch = main
