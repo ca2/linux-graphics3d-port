@@ -20,6 +20,9 @@ if(${INCLUDE_OPENGL})
 endif()
 
 
+add_subdirectory(graphics3d/ktx)
+
+
 #if(INCLUDE_DRAW2D_CAIRO)
 #
 #    add_subdirectory(graphics/pixman)

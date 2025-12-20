@@ -1,1 +1,1 @@
-../../KTX-Software/lib/include/KHR/khr_df.h
+../../graphics3d/ktx/include/KHR/khr_df.h
