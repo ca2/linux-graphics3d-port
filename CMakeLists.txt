@@ -28,6 +28,6 @@ endif()
 #
 #endif()
 
-add_subdirectory(base/iconv)
+#add_subdirectory(base/iconv)
 add_subdirectory(base/unac)
 
