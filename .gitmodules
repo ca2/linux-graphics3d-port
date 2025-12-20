@@ -6,3 +6,7 @@
 	path = graphics3d
 	url = ../linux-port-graphics3d
 	branch = main
+[submodule "common"]
+	path = common
+	url = ../port-common
+	branch = main
