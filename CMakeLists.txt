@@ -21,6 +21,13 @@ if(${INCLUDE_OPENGL})
 endif()
 
 
+if(${INCLUDE_VULKAN})
+
+    add_subdirectory(graphics3d/vkvg)
+
+endif()
+
+
 add_subdirectory(graphics3d/ktx)
 
 
